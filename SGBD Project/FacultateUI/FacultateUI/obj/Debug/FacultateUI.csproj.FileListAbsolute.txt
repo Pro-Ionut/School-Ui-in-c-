@@ -1,0 +1,40 @@
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\bin\Debug\FacultateUI.exe.config
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\bin\Debug\FacultateUI.exe
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\bin\Debug\FacultateUI.pdb
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.csprojAssemblyReference.cache
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.AdaugareCursuri.resources
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.AdaugareNote.resources
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.AdaugareProfesori.resources
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.AdaugareStudenti.resources
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.Dashboard.resources
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.DashboardAdmin.resources
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.DashboardUser.resources
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.LogIn.resources
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.Register.resources
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.Properties.Resources.resources
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.StergereConturi.resources
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.VizualizareCursuri.resources
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.csproj.GenerateResource.cache
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.exe
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.pdb
+D:\Proiecte c#\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.ModificareConturi.resources
+C:\Users\cionc\OneDrive\Desktop\Proiect SGBD\FacultateUI\FacultateUI\bin\Debug\FacultateUI.exe.config
+C:\Users\cionc\OneDrive\Desktop\Proiect SGBD\FacultateUI\FacultateUI\bin\Debug\FacultateUI.exe
+C:\Users\cionc\OneDrive\Desktop\Proiect SGBD\FacultateUI\FacultateUI\bin\Debug\FacultateUI.pdb
+C:\Users\cionc\OneDrive\Desktop\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.csprojAssemblyReference.cache
+C:\Users\cionc\OneDrive\Desktop\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.AdaugareCursuri.resources
+C:\Users\cionc\OneDrive\Desktop\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.AdaugareNote.resources
+C:\Users\cionc\OneDrive\Desktop\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.AdaugareProfesori.resources
+C:\Users\cionc\OneDrive\Desktop\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.AdaugareStudenti.resources
+C:\Users\cionc\OneDrive\Desktop\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.Dashboard.resources
+C:\Users\cionc\OneDrive\Desktop\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.DashboardAdmin.resources
+C:\Users\cionc\OneDrive\Desktop\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.DashboardUser.resources
+C:\Users\cionc\OneDrive\Desktop\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.LogIn.resources
+C:\Users\cionc\OneDrive\Desktop\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.ModificareConturi.resources
+C:\Users\cionc\OneDrive\Desktop\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.Register.resources
+C:\Users\cionc\OneDrive\Desktop\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.Properties.Resources.resources
+C:\Users\cionc\OneDrive\Desktop\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.StergereConturi.resources
+C:\Users\cionc\OneDrive\Desktop\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.VizualizareCursuri.resources
+C:\Users\cionc\OneDrive\Desktop\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.csproj.GenerateResource.cache
+C:\Users\cionc\OneDrive\Desktop\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.exe
+C:\Users\cionc\OneDrive\Desktop\Proiect SGBD\FacultateUI\FacultateUI\obj\Debug\FacultateUI.pdb

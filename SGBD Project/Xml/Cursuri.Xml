@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <tCursuri>
+    <CodCurs>C1</CodCurs>
+    <NumeCurs>Pia</NumeCurs>
+    <NrCredite>6</NrCredite>
+  </tCursuri>
+  <tCursuri>
+    <CodCurs>C2</CodCurs>
+    <NumeCurs>Prolog</NumeCurs>
+    <NrCredite>5</NrCredite>
+  </tCursuri>
+</NewDataSet>
